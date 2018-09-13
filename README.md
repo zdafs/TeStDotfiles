@@ -1,4 +1,6 @@
-This repository is used by [Le Wagon](https://www.lewagon.com) students during our 9-week [coding bootcamp](https://www.lewagon.com).
+# Atenção
+
+Esse repositório é propriedade de [Le Wagon](https://www.lewagon.com). Foi copiado, traduzido e ligeiramente modificado para uso pessoal e **não possui nenhum fim lucrativo de qualquer tipo**.
 
 ## Toolset
 
